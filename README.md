@@ -8,6 +8,10 @@ Usage
 
 If you have [bower](https://bower.io/) installed then install project dependencies.
 
+```
+$ bower install 
+```
+
 Original Credits
 ----------------
 
